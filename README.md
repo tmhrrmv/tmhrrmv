@@ -41,11 +41,9 @@ IT Systems Technician with hands-on experience in network infrastructure for lar
 
 **Environment:** TCP/IP, VLAN, DHCP, NAT, VPN, OSPF/RIP, WiFi 5/6/6E/7, PoE, Layer 1–3 Troubleshooting, Network Security
 
-### Waiter Assistant — De-Picnic Catering
-
 *3 years*
 
-- Customer service at events, food preparation and service, teamwork in dynamic environments
+- Customer service at events, teamwork in dynamic environments
 
 ---
 
