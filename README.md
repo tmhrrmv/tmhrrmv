@@ -73,9 +73,7 @@ IFP — Innovation in Professional Training | In progress
 | Project | Description |
 |---------|-------------|
 | WiFi Coverage & Monitoring (MWC/ISE) | Real-world WiFi monitoring — tracked channel interference, rogue APs, and signal quality across high-density halls |
-| Sales Management System (SQL) | Relational database in MySQL with inventory, customer records, and order tracking |
-| Cisco Packet Tracer Labs | Progressive network labs covering static routing, VLAN trunking, STP, NAT/PAT, and ACLs |
-| Network Infrastructure Deployment | Deployed full network services for MWC & ISE events with thousands of concurrent users |
+| Basic-Lab | Progressive network labs covering static routing, VLAN trunking, STP, NAT/PAT, and ACLs |
 
 ---
 
